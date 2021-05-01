@@ -1,4 +1,8 @@
 ### Hi there 👋
+##### A chess player with passion to low level R&D
+### Accomplishments
+- Shared 2nd place european youth chess championship
+- First place - CodeGuruXtreme 2021 ([results](https://codeguru.co.il/Xtreme/winners.htm))
 
 <!--
 **orkinyo/orkinyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
