@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### A chess player with passion to low level R&D
 ### Accomplishments
-- Shared 2nd place european youth chess championship
+- Shared 2nd place european youth chess championship 2019
 - First place - CodeGuruXtreme 2021 ([results](https://codeguru.co.il/Xtreme/winners.htm))
 
 <!--
